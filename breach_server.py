@@ -437,9 +437,13 @@ def fetch_ransomware_live(window_start, cap=500):
             "matched": [group] if group else [],
             "category": "Ransomware",
             "sic": "", "industry": sector, "state": (v.get("country") or "").strip(),
-            "filing_url": ("https://www.ransomware.live/group/" + group) if group
-                          else "https://www.ransomware.live/recent",
-            "index_url": "https://www.ransomware.live/recent",
+            # Per-victim page on ransomware.live (preferred), falling back to the
+            # gang's profile page, then the recent feed.
+            "filing_url": (v.get("url")
+                           or (("https://www.ransomware.live/group/" + group) if group
+                               else "https://www.ransomware.live/recent")),
+            "index_url": ("https://www.ransomware.live/group/" + group) if group
+                         else "https://www.ransomware.live/recent",
             "source": "ransomware.live", "source_type": "ransomware",
             "breach_date": _norm_date(v.get("attackdate") or ""), "affected": None,
         })
@@ -557,6 +561,12 @@ def refresh(days=45, backfill=False):
             if rec.get("affected") and rec.get("affected") != old.get("affected"):
                 old["affected"] = rec["affected"]
                 changed = True
+            # Refresh the source links to the latest computed value so link-logic
+            # fixes propagate to records already in the store.
+            for k in ("filing_url", "index_url"):
+                if rec.get(k) and rec[k] != old.get(k):
+                    old[k] = rec[k]
+                    changed = True
             if changed:
                 updated += 1
     records = list(existing.values())

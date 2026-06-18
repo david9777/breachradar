@@ -274,7 +274,8 @@ function cardHtml(r) {
         ${r.state ? `<span>🌐 ${esc(r.state)}</span>` : ""}
       </div>
       <div class="links">
-        <a href="${esc(r.filing_url)}" target="_blank" rel="noopener">🔗 ransomware.live (gang profile)</a>
+        <a href="${esc(r.filing_url)}" target="_blank" rel="noopener">🔗 View victim on ransomware.live →</a>
+        ${r.index_url && r.index_url !== r.filing_url ? `<a href="${esc(r.index_url)}" target="_blank" rel="noopener">gang profile</a>` : ""}
       </div>
     </article>`;
   }
@@ -342,8 +343,8 @@ function cardHtml(r) {
         <span>${esc(r.form)} · acc# ${esc(r.id)}</span>
       </div>
       <div class="links">
-        <a href="${esc(r.filing_url)}" target="_blank" rel="noopener">📄 Read the filing</a>
-        <a href="${esc(r.index_url)}" target="_blank" rel="noopener">All documents</a>
+        <a href="${esc(r.index_url)}" target="_blank" rel="noopener">📄 View 8-K filing on SEC.gov →</a>
+        ${r.filing_url && r.filing_url !== r.index_url ? `<a href="${esc(r.filing_url)}" target="_blank" rel="noopener">↳ matched document</a>` : ""}
       </div>
     </article>`;
 }
