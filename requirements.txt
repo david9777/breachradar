@@ -1,0 +1,2 @@
+# BreachRadar has NO third-party dependencies — Python standard library only.
+# This file exists so hosting platforms detect a Python app and run a (no-op) build.

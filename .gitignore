@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Atomic-write temp files
+*.tmp
+breaches.json.tmp
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,47 @@
+# Free, durable auto-refresh for BreachRadar — no server needed.
+#
+# On a schedule (and on demand via the "Run workflow" button), GitHub's free
+# runners pull every source (SEC EDGAR, CA/WA/OR AGs, ransomware.live, HIBP),
+# merge new records, and commit the updated breaches.json back to the repo. A
+# GitHub Pages site reading that file then shows fresh data — $0, forever.
+name: Refresh breaches
+
+on:
+  schedule:
+    - cron: "30 7 * * *"        # daily at 07:30 UTC
+  workflow_dispatch: {}          # adds a manual "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write                # allow the bot to commit updated data
+
+concurrency:
+  group: refresh-breaches
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull latest breaches
+        env:
+          REFRESH_COOLDOWN: "0"
+          BREACH_UA: "BreachRadar GitHub Action (set-your-email@example.com)"
+        run: python breach_server.py --refresh-once
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "breachradar-bot"
+          git config user.email "breachradar-bot@users.noreply.github.com"
+          git add breaches.json
+          if git diff --staged --quiet; then
+            echo "No new breaches this run."
+          else
+            git commit -m "Auto-refresh breaches ($(date -u +%Y-%m-%dT%H:%MZ)) [skip ci]"
+            git push
+          fi

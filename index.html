@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>BreachRadar — SEC cybersecurity breach filings</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">🛡️</span>
+      <div>
+        <h1>BreachRadar<span id="siteName"></span></h1>
+        <p class="tag">Live breach tracker · SEC 8-K Item 1.05 · state AG notices · ransomware.live · Have I Been Pwned</p>
+      </div>
+    </div>
+    <div class="actions">
+      <button id="alertsBtn" class="ghost" title="Enable desktop alerts for new filings">🔔 Alerts: off</button>
+      <button id="refreshBtn" class="primary">⟳ Refresh</button>
+    </div>
+  </header>
+
+  <section class="stats" id="stats"></section>
+
+  <nav class="tabs" id="tabs" role="tablist"></nav>
+
+  <div id="toast" class="toast" hidden></div>
+  <div id="status" class="status" hidden></div>
+
+  <section class="controls">
+    <input id="search" type="search" placeholder="Search company, ticker, group, item, state…" autocomplete="off" />
+    <select id="industryFilter"><option value="">All industries / sectors</option></select>
+    <select id="rangeFilter">
+      <option value="0">Any date</option>
+      <option value="7">Last 7 days</option>
+      <option value="30">Last 30 days</option>
+      <option value="90">Last 90 days</option>
+      <option value="365">Last year</option>
+    </select>
+    <select id="sortBy">
+      <option value="filed">Newest first</option>
+      <option value="filed_asc">Oldest first</option>
+      <option value="company">Company A–Z</option>
+    </select>
+    <button id="csvBtn" class="ghost">⬇ CSV</button>
+  </section>
+
+  <main id="results"></main>
+  <div id="showMoreWrap" class="more" hidden>
+    <button id="showMore" class="ghost">Show more</button>
+  </div>
+
+  <footer class="foot">
+    Source: <a href="https://efts.sec.gov" target="_blank" rel="noopener">SEC EDGAR full-text search</a>.
+    Every record links to the original filing on sec.gov. Item 1.05 = the SEC's
+    mandatory "Material Cybersecurity Incidents" disclosure (effective Dec 2023).
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

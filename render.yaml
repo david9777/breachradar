@@ -1,0 +1,25 @@
+# One-click deploy for Render (https://render.com) — gives a LIVE site where
+# anyone can press ⟳ Refresh and pull fresh breaches server-side.
+#
+# In Render: New → Blueprint → connect this repo. It reads this file directly.
+#
+# This uses the FREE plan (no persistent disk): the data file resets to the
+# bundled breaches.json on each restart/redeploy, and the background auto-refresh
+# (plus any visitor pressing Refresh) repopulates it. For permanent storage, add
+# a `disk:` block (paid) and point BREACH_STORE at the mounted path.
+services:
+  - type: web
+    name: breachradar
+    runtime: python
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python breach_server.py"
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.7"
+      - key: AUTO_REFRESH_HOURS   # background auto-pull cadence (0 disables)
+        value: "6"
+      - key: REFRESH_COOLDOWN     # min seconds between real public refresh pulls
+        value: "120"
+      - key: BREACH_UA            # identify yourself to SEC EDGAR (be a good citizen)
+        value: "BreachRadar (set-your-email@example.com)"
