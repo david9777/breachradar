@@ -1,5 +1,77 @@
 [
   {
+    "id": "rw:nh-th-nh-ph-2026-06-21",
+    "company": "Nhà Thành Phố",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-06-21",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "nova"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "",
+    "state": "VN",
+    "filing_url": "https://www.ransomware.live/id/TmjDoCBUaMOgbmggUGjhu5FAbm92YQ==",
+    "index_url": "https://www.ransomware.live/group/nova",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-06-21",
+    "affected": null,
+    "date_added": "2026-06-21T10:52:46.227023+00:00"
+  },
+  {
+    "id": "rw:lockers-it-2026-06-21",
+    "company": "Lockers IT",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-06-21",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "nova"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Technology",
+    "state": "",
+    "filing_url": "https://www.ransomware.live/id/TG9ja2VycyBJVEBub3Zh",
+    "index_url": "https://www.ransomware.live/group/nova",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-06-21",
+    "affected": null,
+    "date_added": "2026-06-21T10:52:46.227023+00:00"
+  },
+  {
+    "id": "rw:artistic-smiles-2026-06-21",
+    "company": "Artistic Smiles",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-06-21",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "nightspire"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Consumer Services",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/QXJ0aXN0aWMgU21pbGVzQG5pZ2h0c3BpcmU=",
+    "index_url": "https://www.ransomware.live/group/nightspire",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-06-19",
+    "affected": null,
+    "date_added": "2026-06-21T10:52:46.227023+00:00"
+  },
+  {
     "id": "rw:yudu-technology-2026-06-20",
     "company": "Yudu Technology",
     "ticker": "",
@@ -216,6 +288,30 @@
     "date_added": "2026-06-20T10:17:55.284554+00:00"
   },
   {
+    "id": "rw:super-finishing-2026-06-20",
+    "company": "Super Finishing",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-06-20",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "worldleaks"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Manufacturing",
+    "state": "BR",
+    "filing_url": "https://www.ransomware.live/id/U3VwZXIgRmluaXNoaW5nQHdvcmxkbGVha3M=",
+    "index_url": "https://www.ransomware.live/group/worldleaks",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-06-20",
+    "affected": null,
+    "date_added": "2026-06-21T10:52:46.227023+00:00"
+  },
+  {
     "id": "rw:sparkinter-com-2026-06-20",
     "company": "sparkinter.com",
     "ticker": "",
@@ -408,6 +504,30 @@
     "date_added": "2026-06-20T10:17:55.284554+00:00"
   },
   {
+    "id": "rw:qualiflex-solutions-qualiflex-solutions-2026-06-20",
+    "company": "Qualiflex Solutions | qualiflex.solutions",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-06-20",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "payload"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Business Services",
+    "state": "",
+    "filing_url": "https://www.ransomware.live/id/UXVhbGlmbGV4IFNvbHV0aW9ucyB8IHF1YWxpZmxleC5zb2x1dGlvbnNAcGF5bG9hZA==",
+    "index_url": "https://www.ransomware.live/group/payload",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-06-20",
+    "affected": null,
+    "date_added": "2026-06-21T10:52:46.227023+00:00"
+  },
+  {
     "id": "rw:primelinkbio-com-2026-06-20",
     "company": "primelinkbio.com",
     "ticker": "",
@@ -432,6 +552,30 @@
     "date_added": "2026-06-20T10:17:55.284554+00:00"
   },
   {
+    "id": "rw:preferred-properties-2026-06-20",
+    "company": "Preferred Properties",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-06-20",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "payload"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "",
+    "state": "",
+    "filing_url": "https://www.ransomware.live/id/UHJlZmVycmVkIFByb3BlcnRpZXNAcGF5bG9hZA==",
+    "index_url": "https://www.ransomware.live/group/payload",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-06-20",
+    "affected": null,
+    "date_added": "2026-06-21T10:52:46.227023+00:00"
+  },
+  {
     "id": "rw:ponce-benzo-com-2026-06-20",
     "company": "ponce-benzo.com",
     "ticker": "",
@@ -454,6 +598,30 @@
     "breach_date": "2026-06-17",
     "affected": null,
     "date_added": "2026-06-20T10:17:55.284554+00:00"
+  },
+  {
+    "id": "rw:pinnacle-re-tec-2026-06-20",
+    "company": "Pinnacle Re-Tec",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-06-20",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "cmdorganization"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Business Services",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/UGlubmFjbGUgUmUtVGVjQGNtZG9yZ2FuaXphdGlvbg==",
+    "index_url": "https://www.ransomware.live/group/cmdorganization",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-06-20",
+    "affected": null,
+    "date_added": "2026-06-21T10:52:46.227023+00:00"
   },
   {
     "id": "rw:parkviewtaipei-com-2026-06-20",
@@ -504,6 +672,54 @@
     "date_added": "2026-06-20T10:17:55.284554+00:00"
   },
   {
+    "id": "rw:pacific-lamp-supply-2026-06-20",
+    "company": "Pacific Lamp & Supply",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-06-20",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "qilin"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Manufacturing",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/UGFjaWZpYyBMYW1wICYgU3VwcGx5QHFpbGlu",
+    "index_url": "https://www.ransomware.live/group/qilin",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-06-20",
+    "affected": null,
+    "date_added": "2026-06-21T10:52:46.227023+00:00"
+  },
+  {
+    "id": "rw:one-believing-interiors-2026-06-20",
+    "company": "One Believing Interiors",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-06-20",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "nova"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Consumer Services",
+    "state": "",
+    "filing_url": "https://www.ransomware.live/id/T25lIEJlbGlldmluZyBJbnRlcmlvcnNAbm92YQ==",
+    "index_url": "https://www.ransomware.live/group/nova",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-06-20",
+    "affected": null,
+    "date_added": "2026-06-21T10:52:46.227023+00:00"
+  },
+  {
     "id": "rw:nundungopee-mu-2026-06-20",
     "company": "nundungopee.mu",
     "ticker": "",
@@ -528,6 +744,54 @@
     "date_added": "2026-06-20T10:17:55.284554+00:00"
   },
   {
+    "id": "rw:newspaper-media-group-2026-06-20",
+    "company": "Newspaper Media Group",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-06-20",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "incransom"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Consumer Services",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/TmV3c3BhcGVyIE1lZGlhIEdyb3VwQGluY3JhbnNvbQ==",
+    "index_url": "https://www.ransomware.live/group/incransom",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-06-20",
+    "affected": null,
+    "date_added": "2026-06-21T10:52:46.227023+00:00"
+  },
+  {
+    "id": "rw:mit-hjerte-2026-06-20",
+    "company": "MIT HJERTE",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-06-20",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "nova"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Healthcare",
+    "state": "DK",
+    "filing_url": "https://www.ransomware.live/id/TUlUIEhKRVJURUBub3Zh",
+    "index_url": "https://www.ransomware.live/group/nova",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-06-20",
+    "affected": null,
+    "date_added": "2026-06-21T10:52:46.227023+00:00"
+  },
+  {
     "id": "rw:majorcineplex-com-2026-06-20",
     "company": "majorcineplex.com",
     "ticker": "",
@@ -550,6 +814,30 @@
     "breach_date": "2026-06-17",
     "affected": null,
     "date_added": "2026-06-20T10:17:55.284554+00:00"
+  },
+  {
+    "id": "rw:l-archevque-rivest-lt-e-2026-06-20",
+    "company": "L'Archevque & Rivest Ltée",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-06-20",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "worldleaks"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "",
+    "state": "CA",
+    "filing_url": "https://www.ransomware.live/id/TCdBcmNoZXZxdWUgJiBSaXZlc3QgTHTDqWVAd29ybGRsZWFrcw==",
+    "index_url": "https://www.ransomware.live/group/worldleaks",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-06-20",
+    "affected": null,
+    "date_added": "2026-06-21T10:52:46.227023+00:00"
   },
   {
     "id": "rw:inspeqingenieria-com-2026-06-20",
@@ -600,6 +888,30 @@
     "date_added": "2026-06-20T10:17:55.284554+00:00"
   },
   {
+    "id": "rw:hosab-2026-06-20",
+    "company": "Hosab",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-06-20",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "nova"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Business Services",
+    "state": "",
+    "filing_url": "https://www.ransomware.live/id/SG9zYWJAbm92YQ==",
+    "index_url": "https://www.ransomware.live/group/nova",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-06-20",
+    "affected": null,
+    "date_added": "2026-06-21T10:52:46.227023+00:00"
+  },
+  {
     "id": "rw:hiddenn-2026-06-20",
     "company": "hiddenn",
     "ticker": "",
@@ -648,6 +960,30 @@
     "date_added": "2026-06-20T10:17:55.284554+00:00"
   },
   {
+    "id": "rw:go2joy-go2joy-vn-2026-06-20",
+    "company": "Go2Joy (go2joy.vn)",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-06-20",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "ransomexx"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Hospitality and Tourism",
+    "state": "VN",
+    "filing_url": "https://www.ransomware.live/id/R28ySm95IChnbzJqb3kudm4pQHJhbnNvbWV4eA==",
+    "index_url": "https://www.ransomware.live/group/ransomexx",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-06-20",
+    "affected": null,
+    "date_added": "2026-06-21T10:52:46.227023+00:00"
+  },
+  {
     "id": "rw:felizhotelboracay-com-2026-06-20",
     "company": "felizhotelboracay.com",
     "ticker": "",
@@ -672,6 +1008,54 @@
     "date_added": "2026-06-20T10:17:55.284554+00:00"
   },
   {
+    "id": "rw:enb-versicherungen-myenb-ch-2026-06-20",
+    "company": "ENB Versicherungen | myenb.ch",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-06-20",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "payload"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Financial Services",
+    "state": "CH",
+    "filing_url": "https://www.ransomware.live/id/RU5CIFZlcnNpY2hlcnVuZ2VuIHwgbXllbmIuY2hAcGF5bG9hZA==",
+    "index_url": "https://www.ransomware.live/group/payload",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-06-20",
+    "affected": null,
+    "date_added": "2026-06-21T10:52:46.227023+00:00"
+  },
+  {
+    "id": "rw:editora-irm-os-vitale-2026-06-20",
+    "company": "Editora Irmãos Vitale",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-06-20",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "payload"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Education",
+    "state": "BR",
+    "filing_url": "https://www.ransomware.live/id/RWRpdG9yYSBJcm3Do29zIFZpdGFsZUBwYXlsb2Fk",
+    "index_url": "https://www.ransomware.live/group/payload",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-06-20",
+    "affected": null,
+    "date_added": "2026-06-21T10:52:46.227023+00:00"
+  },
+  {
     "id": "rw:drwu-com-2026-06-20",
     "company": "drwu.com",
     "ticker": "",
@@ -694,6 +1078,30 @@
     "breach_date": "2026-06-17",
     "affected": null,
     "date_added": "2026-06-20T10:17:55.284554+00:00"
+  },
+  {
+    "id": "rw:dosab-2026-06-20",
+    "company": "Dosab",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-06-20",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "nova"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Manufacturing",
+    "state": "SA",
+    "filing_url": "https://www.ransomware.live/id/RG9zYWJAbm92YQ==",
+    "index_url": "https://www.ransomware.live/group/nova",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-06-20",
+    "affected": null,
+    "date_added": "2026-06-21T10:52:46.227023+00:00"
   },
   {
     "id": "rw:daikyonishikawa-co-jp-2026-06-20",
@@ -9067,12 +9475,12 @@
     "sic": "",
     "industry": "",
     "state": "WA",
-    "filing_url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA41108.pdf",
-    "index_url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA41108.pdf",
+    "filing_url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA41120.pdf",
+    "index_url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA41120.pdf",
     "source": "Washington AG",
     "source_type": "state_ag",
     "breach_date": "05/01/2026",
-    "affected": 5671,
+    "affected": 1215,
     "date_added": "2026-06-18T13:46:30.730326+00:00"
   },
   {
