@@ -1,5 +1,77 @@
 [
   {
+    "id": "rw:new-tiles-s-l-2026-07-10",
+    "company": "New Tiles S.L.",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-10",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "gunra"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Manufacturing",
+    "state": "ES",
+    "filing_url": "https://www.ransomware.live/id/TmV3IFRpbGVzIFMuTC5AZ3VucmE=",
+    "index_url": "https://www.ransomware.live/group/gunra",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-07-10",
+    "affected": null,
+    "date_added": "2026-07-10T10:34:15.117170+00:00"
+  },
+  {
+    "id": "rw:hynet-2026-07-10",
+    "company": "Hynet",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-10",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "nova"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Technology",
+    "state": "GB",
+    "filing_url": "https://www.ransomware.live/id/SHluZXRAbm92YQ==",
+    "index_url": "https://www.ransomware.live/group/nova",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-07-10",
+    "affected": null,
+    "date_added": "2026-07-10T10:34:15.117170+00:00"
+  },
+  {
+    "id": "rw:hospital-di-camp-2026-07-10",
+    "company": "Hospital Di Camp",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-10",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "Doommageddon"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Healthcare",
+    "state": "",
+    "filing_url": "https://www.ransomware.live/id/SG9zcGl0YWwgRGkgQ2FtcEBEb29tbWFnZWRkb24=",
+    "index_url": "https://www.ransomware.live/group/Doommageddon",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-07-10",
+    "affected": null,
+    "date_added": "2026-07-10T10:34:15.117170+00:00"
+  },
+  {
     "id": "rw:top-notch-dentistry-of-dallas-2026-07-09",
     "company": "Top Notch Dentistry of Dallas",
     "ticker": "",
@@ -24,6 +96,78 @@
     "date_added": "2026-07-09T10:43:33.113760+00:00"
   },
   {
+    "id": "rw:the-commune-of-castries-2026-07-09",
+    "company": "The commune of Castries",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-09",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "payload"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Public Sector",
+    "state": "FR",
+    "filing_url": "https://www.ransomware.live/id/VGhlIGNvbW11bmUgb2YgQ2FzdHJpZXNAcGF5bG9hZA==",
+    "index_url": "https://www.ransomware.live/group/payload",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-07-09",
+    "affected": null,
+    "date_added": "2026-07-10T10:34:15.117170+00:00"
+  },
+  {
+    "id": "rw:sun-dolphin-boats-2026-07-09",
+    "company": "Sun Dolphin Boats",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-09",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "qilin"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Manufacturing",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/U3VuIERvbHBoaW4gQm9hdHNAcWlsaW4=",
+    "index_url": "https://www.ransomware.live/group/qilin",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-07-09",
+    "affected": null,
+    "date_added": "2026-07-10T10:34:15.117170+00:00"
+  },
+  {
+    "id": "rw:sintax-2026-07-09",
+    "company": "Sintax",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-09",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "qilin"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Technology",
+    "state": "BE",
+    "filing_url": "https://www.ransomware.live/id/U2ludGF4QHFpbGlu",
+    "index_url": "https://www.ransomware.live/group/qilin",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-07-09",
+    "affected": null,
+    "date_added": "2026-07-10T10:34:15.117170+00:00"
+  },
+  {
     "id": "rw:sf-smile-doctor-2026-07-09",
     "company": "SF Smile Doctor",
     "ticker": "",
@@ -46,6 +190,30 @@
     "breach_date": "2026-07-09",
     "affected": null,
     "date_added": "2026-07-09T10:43:33.113760+00:00"
+  },
+  {
+    "id": "rw:robroy-com-2026-07-09",
+    "company": "robroy.com",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-09",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "BrainCipher"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Manufacturing",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/cm9icm95LmNvbUBCcmFpbkNpcGhlcg==",
+    "index_url": "https://www.ransomware.live/group/BrainCipher",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-07-09",
+    "affected": null,
+    "date_added": "2026-07-10T10:34:15.117170+00:00"
   },
   {
     "id": "rw:pinturas-prisa-2026-07-09",
@@ -96,6 +264,54 @@
     "date_added": "2026-07-09T10:43:33.113760+00:00"
   },
   {
+    "id": "rw:inter-power-engineering-2026-07-09",
+    "company": "Inter Power Engineering",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-09",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "qilin"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Energy",
+    "state": "AE",
+    "filing_url": "https://www.ransomware.live/id/SW50ZXIgUG93ZXIgRW5naW5lZXJpbmdAcWlsaW4=",
+    "index_url": "https://www.ransomware.live/group/qilin",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-07-09",
+    "affected": null,
+    "date_added": "2026-07-10T10:34:15.117170+00:00"
+  },
+  {
+    "id": "rw:iac-intl-com-2026-07-09",
+    "company": "iac-intl.com",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-09",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "BrainCipher"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Business Services",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/aWFjLWludGwuY29tQEJyYWluQ2lwaGVy",
+    "index_url": "https://www.ransomware.live/group/BrainCipher",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-07-09",
+    "affected": null,
+    "date_added": "2026-07-10T10:34:15.117170+00:00"
+  },
+  {
     "id": "rw:hum-jacoby-2026-07-09",
     "company": "Hum & Jacoby",
     "ticker": "",
@@ -120,6 +336,54 @@
     "date_added": "2026-07-09T10:43:33.113760+00:00"
   },
   {
+    "id": "rw:finance-yorkshire-2026-07-09",
+    "company": "Finance Yorkshire",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-09",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "cmdorganization"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Financial Services",
+    "state": "GB",
+    "filing_url": "https://www.ransomware.live/id/RmluYW5jZSBZb3Jrc2hpcmVAY21kb3JnYW5pemF0aW9u",
+    "index_url": "https://www.ransomware.live/group/cmdorganization",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-07-09",
+    "affected": null,
+    "date_added": "2026-07-10T10:34:15.117170+00:00"
+  },
+  {
+    "id": "rw:envision-unlimited-2026-07-09",
+    "company": "Envision Unlimited",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-09",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "moneymessage"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "",
+    "state": "",
+    "filing_url": "https://www.ransomware.live/id/RW52aXNpb24gVW5saW1pdGVkQG1vbmV5bWVzc2FnZQ==",
+    "index_url": "https://www.ransomware.live/group/moneymessage",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-07-09",
+    "affected": null,
+    "date_added": "2026-07-10T10:34:15.117170+00:00"
+  },
+  {
     "id": "rw:creative-smiles-pediatric-dentistry-2026-07-09",
     "company": "Creative Smiles Pediatric Dentistry",
     "ticker": "",
@@ -142,6 +406,30 @@
     "breach_date": "2026-07-09",
     "affected": null,
     "date_added": "2026-07-09T10:43:33.113760+00:00"
+  },
+  {
+    "id": "rw:bronken-s-dist-2026-07-09",
+    "company": "Bronken's Dist",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-09",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "qilin"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Transportation/Logistics",
+    "state": "",
+    "filing_url": "https://www.ransomware.live/id/QnJvbmtlbidzIERpc3RAcWlsaW4=",
+    "index_url": "https://www.ransomware.live/group/qilin",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-07-09",
+    "affected": null,
+    "date_added": "2026-07-10T10:34:15.117170+00:00"
   },
   {
     "id": "rw:bishop-arts-dental-pllc-2026-07-09",
@@ -642,6 +930,30 @@
     "breach_date": "2026-07-07",
     "affected": null,
     "date_added": "2026-07-07T10:38:18.602054+00:00"
+  },
+  {
+    "id": "rw:stone-ridge-payments-2026-07-07",
+    "company": "Stone Ridge Payments",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-07",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "akira"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Financial Services",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/U3RvbmUgUmlkZ2UgUGF5bWVudHNAYWtpcmE=",
+    "index_url": "https://www.ransomware.live/group/akira",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-07-07",
+    "affected": null,
+    "date_added": "2026-07-10T10:34:15.117170+00:00"
   },
   {
     "id": "rw:shamrock-holdings-inc-2026-07-07",
@@ -18607,12 +18919,12 @@
     "sic": "",
     "industry": "",
     "state": "WA",
-    "filing_url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA41108.pdf",
-    "index_url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA41108.pdf",
+    "filing_url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA41120.pdf",
+    "index_url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA41120.pdf",
     "source": "Washington AG",
     "source_type": "state_ag",
     "breach_date": "05/01/2026",
-    "affected": 5671,
+    "affected": 1215,
     "date_added": "2026-06-18T13:46:30.730326+00:00"
   },
   {
