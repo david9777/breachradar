@@ -96,6 +96,30 @@
     "date_added": "2026-07-11T09:07:22.288215+00:00"
   },
   {
+    "id": "rw:retelit-spa-piva-2026-07-11",
+    "company": "Retelit SpA PIVA",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-11",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "qilin"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Telecommunication",
+    "state": "IT",
+    "filing_url": "https://www.ransomware.live/id/UmV0ZWxpdCBTcEEgUElWQUBxaWxpbg==",
+    "index_url": "https://www.ransomware.live/group/qilin",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-07-11",
+    "affected": null,
+    "date_added": "2026-07-12T09:26:26.440036+00:00"
+  },
+  {
     "id": "rw:pharma-wholesale-2026-07-11",
     "company": "Pharma Wholesale",
     "ticker": "",
@@ -214,6 +238,30 @@
     "breach_date": "2026-07-10",
     "affected": null,
     "date_added": "2026-07-11T09:07:22.288215+00:00"
+  },
+  {
+    "id": "rw:golden-star-resources-2026-07-11",
+    "company": "Golden Star Resources",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-11",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "cmdorganization"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Energy",
+    "state": "GH",
+    "filing_url": "https://www.ransomware.live/id/R29sZGVuIFN0YXIgUmVzb3VyY2VzQGNtZG9yZ2FuaXphdGlvbg==",
+    "index_url": "https://www.ransomware.live/group/cmdorganization",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-07-11",
+    "affected": null,
+    "date_added": "2026-07-12T09:26:26.440036+00:00"
   },
   {
     "id": "rw:gene-codes-forensics-2026-07-11",
@@ -360,6 +408,54 @@
     "date_added": "2026-07-11T09:07:22.288215+00:00"
   },
   {
+    "id": "rw:century-equities-2026-07-11",
+    "company": "Century Equities",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-11",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "qilin"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Financial Services",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/Q2VudHVyeSBFcXVpdGllc0BxaWxpbg==",
+    "index_url": "https://www.ransomware.live/group/qilin",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-07-11",
+    "affected": null,
+    "date_added": "2026-07-12T09:26:26.440036+00:00"
+  },
+  {
+    "id": "rw:carolina-agri-power-2026-07-11",
+    "company": "Carolina Agri-Power",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-11",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "qilin"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Agriculture and Food Production",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/Q2Fyb2xpbmEgQWdyaS1Qb3dlckBxaWxpbg==",
+    "index_url": "https://www.ransomware.live/group/qilin",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-07-11",
+    "affected": null,
+    "date_added": "2026-07-12T09:26:26.440036+00:00"
+  },
+  {
     "id": "rw:carita-2026-07-11",
     "company": "Carita",
     "ticker": "",
@@ -430,6 +526,80 @@
     "breach_date": "2026-07-10",
     "affected": null,
     "date_added": "2026-07-11T09:07:22.288215+00:00"
+  },
+  {
+    "id": "rw:allied-plumbing-heating-2026-07-11",
+    "company": "Allied Plumbing & Heating",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-11",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "qilin"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Business Services",
+    "state": "NH",
+    "filing_url": "https://www.ransomware.live/id/QWxsaWVkIFBsdW1iaW5nICYgSGVhdGluZ0BxaWxpbg==",
+    "index_url": "https://www.ransomware.live/group/qilin",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-07-11",
+    "affected": null,
+    "date_added": "2026-07-12T09:26:26.440036+00:00"
+  },
+  {
+    "id": "rw:access-equipment-hire-2026-07-11",
+    "company": "Access Equipment Hire",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-11",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "dragonforce"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Construction",
+    "state": "AU",
+    "filing_url": "https://www.ransomware.live/id/QWNjZXNzIEVxdWlwbWVudCBIaXJlQGRyYWdvbmZvcmNl",
+    "index_url": "https://www.ransomware.live/group/dragonforce",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-07-10",
+    "affected": null,
+    "date_added": "2026-07-12T09:26:26.440036+00:00"
+  },
+  {
+    "id": "hibp:glendalecommunitycollege",
+    "company": "Glendale Community College",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-07-11",
+    "form": "Breach database entry",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "Academic records",
+      "Dates of birth",
+      "Email addresses"
+    ],
+    "category": "Credential / Data Breach",
+    "sic": "",
+    "industry": "",
+    "state": "",
+    "filing_url": "https://haveibeenpwned.com/PwnedWebsites#GlendaleCommunityCollege",
+    "index_url": "https://haveibeenpwned.com/PwnedWebsites",
+    "source": "Have I Been Pwned",
+    "source_type": "hibp",
+    "breach_date": "2026-06-15",
+    "affected": 793925,
+    "date_added": "2026-07-12T09:26:26.440036+00:00"
   },
   {
     "id": "rw:zaffrani-srl-2026-07-10",
@@ -21377,12 +21547,12 @@
     "sic": "",
     "industry": "",
     "state": "WA",
-    "filing_url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA41108.pdf",
-    "index_url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA41108.pdf",
+    "filing_url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA41120.pdf",
+    "index_url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA41120.pdf",
     "source": "Washington AG",
     "source_type": "state_ag",
     "breach_date": "05/01/2026",
-    "affected": 5671,
+    "affected": 1215,
     "date_added": "2026-06-18T13:46:30.730326+00:00"
   },
   {
