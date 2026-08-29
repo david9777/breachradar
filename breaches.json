@@ -1,5 +1,173 @@
 [
   {
+    "id": "rw:trc-companies-2026-08-29",
+    "company": "trc-companies",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-08-29",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "iah6477"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Professional Services",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/dHJjLWNvbXBhbmllc0BpYWg2NDc3",
+    "index_url": "https://www.ransomware.live/group/iah6477",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-08-29",
+    "affected": null,
+    "date_added": "2026-08-29T13:17:56.816840+00:00"
+  },
+  {
+    "id": "rw:swagelok-2026-08-29",
+    "company": "swagelok",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-08-29",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "iah6477"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Manufacturing",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/c3dhZ2Vsb2tAaWFoNjQ3Nw==",
+    "index_url": "https://www.ransomware.live/group/iah6477",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-08-29",
+    "affected": null,
+    "date_added": "2026-08-29T13:17:56.816840+00:00"
+  },
+  {
+    "id": "rw:oilquip-inc-2026-08-29",
+    "company": "Oilquip Inc",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-08-29",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "incransom"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Energy & Utilities",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/T2lscXVpcCBJbmNAaW5jcmFuc29t",
+    "index_url": "https://www.ransomware.live/group/incransom",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-08-28",
+    "affected": null,
+    "date_added": "2026-08-29T13:17:56.816840+00:00"
+  },
+  {
+    "id": "rw:montcau-2026-08-29",
+    "company": "MONTCAU",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-08-29",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "majinahanashi"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "",
+    "state": "",
+    "filing_url": "https://www.ransomware.live/id/TU9OVENBVUBtYWppbmFoYW5hc2hp",
+    "index_url": "https://www.ransomware.live/group/majinahanashi",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-08-29",
+    "affected": null,
+    "date_added": "2026-08-29T13:17:56.816840+00:00"
+  },
+  {
+    "id": "rw:cutlercapital-2026-08-29",
+    "company": "cutlercapital",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-08-29",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "lynx"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Financial Services",
+    "state": "",
+    "filing_url": "https://www.ransomware.live/id/Y3V0bGVyY2FwaXRhbEBseW54",
+    "index_url": "https://www.ransomware.live/group/lynx",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-08-27",
+    "affected": null,
+    "date_added": "2026-08-29T13:17:56.816840+00:00"
+  },
+  {
+    "id": "rw:bayview-real-estate-2026-08-29",
+    "company": "BayView Real Estate",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-08-29",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "ShadowByt3$"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Retail & E-Commerce",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/QmF5VmlldyBSZWFsIEVzdGF0ZUBTaGFkb3dCeXQzJA==",
+    "index_url": "https://www.ransomware.live/group/ShadowByt3$",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-08-29",
+    "affected": null,
+    "date_added": "2026-08-29T13:17:56.816840+00:00"
+  },
+  {
+    "id": "rw:apatpa-com-2026-08-29",
+    "company": "apatpa.com",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-08-29",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "lockbit5"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "",
+    "state": "MX",
+    "filing_url": "https://www.ransomware.live/id/YXBhdHBhLmNvbUBsb2NrYml0NQ==",
+    "index_url": "https://www.ransomware.live/group/lockbit5",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-08-28",
+    "affected": null,
+    "date_added": "2026-08-29T13:17:56.816840+00:00"
+  },
+  {
     "id": "rw:whitehouse-2026-08-28",
     "company": "Whitehouse",
     "ticker": "",
@@ -22,6 +190,30 @@
     "breach_date": "2026-08-28",
     "affected": null,
     "date_added": "2026-08-28T19:31:28.684193+00:00"
+  },
+  {
+    "id": "rw:valley-health-team-2026-08-28",
+    "company": "Valley Health Team",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-08-28",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "rhysida"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Healthcare",
+    "state": "",
+    "filing_url": "https://www.ransomware.live/id/VmFsbGV5IEhlYWx0aCBUZWFtQHJoeXNpZGE=",
+    "index_url": "https://www.ransomware.live/group/rhysida",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-08-28",
+    "affected": null,
+    "date_added": "2026-08-29T13:17:56.816840+00:00"
   },
   {
     "id": "rw:tramigo-2026-08-28",
@@ -72,6 +264,30 @@
     "date_added": "2026-08-28T19:31:28.684193+00:00"
   },
   {
+    "id": "rw:sittnak-lojistik-a-2026-08-28",
+    "company": "SITTNAK Lojistik A.Ş.",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-08-28",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "Doommageddon"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Transportation",
+    "state": "TR",
+    "filing_url": "https://www.ransomware.live/id/U0lUVE5BSyBMb2ppc3RpayBBLsWeLkBEb29tbWFnZWRkb24=",
+    "index_url": "https://www.ransomware.live/group/Doommageddon",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-08-28",
+    "affected": null,
+    "date_added": "2026-08-29T13:17:56.816840+00:00"
+  },
+  {
     "id": "rw:procare-2026-08-28",
     "company": "ProCare",
     "ticker": "",
@@ -96,6 +312,54 @@
     "date_added": "2026-08-28T19:31:28.684193+00:00"
   },
   {
+    "id": "rw:mckesson-corporation-2026-08-28",
+    "company": "McKesson Corporation",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-08-28",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "shinyhunters"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Healthcare",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/TWNLZXNzb24gQ29ycG9yYXRpb25Ac2hpbnlodW50ZXJz",
+    "index_url": "https://www.ransomware.live/group/shinyhunters",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-08-28",
+    "affected": null,
+    "date_added": "2026-08-29T13:17:56.816840+00:00"
+  },
+  {
+    "id": "rw:macallister-com-2026-08-28",
+    "company": "macallister.com",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-08-28",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "chaos"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "",
+    "state": "GB",
+    "filing_url": "https://www.ransomware.live/id/bWFjYWxsaXN0ZXIuY29tQGNoYW9z",
+    "index_url": "https://www.ransomware.live/group/chaos",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-08-28",
+    "affected": null,
+    "date_added": "2026-08-29T13:17:56.816840+00:00"
+  },
+  {
     "id": "rw:jrt-mechanical-2026-08-28",
     "company": "JRT Mechanical",
     "ticker": "",
@@ -118,6 +382,30 @@
     "breach_date": "2026-08-28",
     "affected": null,
     "date_added": "2026-08-28T19:31:28.684193+00:00"
+  },
+  {
+    "id": "rw:jack-henry-associates-2026-08-28",
+    "company": "Jack Henry & Associates",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-08-28",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "shinyhunters"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Financial Services",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/SmFjayBIZW5yeSAmIEFzc29jaWF0ZXNAc2hpbnlodW50ZXJz",
+    "index_url": "https://www.ransomware.live/group/shinyhunters",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-08-28",
+    "affected": null,
+    "date_added": "2026-08-29T13:17:56.816840+00:00"
   },
   {
     "id": "rw:infinnium-2026-08-28",
@@ -166,6 +454,30 @@
     "breach_date": "2026-08-28",
     "affected": null,
     "date_added": "2026-08-28T19:31:28.684193+00:00"
+  },
+  {
+    "id": "rw:elekta-ab-2026-08-28",
+    "company": "Elekta AB",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-08-28",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "shinyhunters"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Healthcare",
+    "state": "SE",
+    "filing_url": "https://www.ransomware.live/id/RWxla3RhIEFCQHNoaW55aHVudGVycw==",
+    "index_url": "https://www.ransomware.live/group/shinyhunters",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-08-28",
+    "affected": null,
+    "date_added": "2026-08-29T13:17:56.816840+00:00"
   },
   {
     "id": "rw:directorate-general-for-education-2026-08-28",
@@ -238,6 +550,30 @@
     "breach_date": "2026-08-28",
     "affected": null,
     "date_added": "2026-08-28T19:31:28.684193+00:00"
+  },
+  {
+    "id": "rw:corematerials-com-2026-08-28",
+    "company": "corematerials.com",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-08-28",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "chaos"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Manufacturing",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/Y29yZW1hdGVyaWFscy5jb21AY2hhb3M=",
+    "index_url": "https://www.ransomware.live/group/chaos",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-08-28",
+    "affected": null,
+    "date_added": "2026-08-29T13:17:56.816840+00:00"
   },
   {
     "id": "rw:caduceus-medical-group-2026-08-28",
@@ -406,6 +742,54 @@
     "breach_date": "2026-08-28",
     "affected": null,
     "date_added": "2026-08-28T19:31:28.684193+00:00"
+  },
+  {
+    "id": "rw:alter-consultores-legales-2026-08-28",
+    "company": "Alter Consultores Legales",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-08-28",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "qilin"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Professional Services",
+    "state": "ES",
+    "filing_url": "https://www.ransomware.live/id/QWx0ZXIgQ29uc3VsdG9yZXMgTGVnYWxlc0BxaWxpbg==",
+    "index_url": "https://www.ransomware.live/group/qilin",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-08-28",
+    "affected": null,
+    "date_added": "2026-08-29T13:17:56.816840+00:00"
+  },
+  {
+    "id": "rw:akpera-gayrimenkul-yat-r-m-a-2026-08-28",
+    "company": "Akpera Gayrimenkul Yatırım A.Ş.",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-08-28",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "Doommageddon"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Other",
+    "state": "TR",
+    "filing_url": "https://www.ransomware.live/id/QWtwZXJhIEdheXJpbWVua3VsIFlhdMSxcsSxbSBBLsWeLkBEb29tbWFnZWRkb24=",
+    "index_url": "https://www.ransomware.live/group/Doommageddon",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-08-28",
+    "affected": null,
+    "date_added": "2026-08-29T13:17:56.816840+00:00"
   },
   {
     "id": "rw:theheartcenterofmemphis-com-2026-08-27",
