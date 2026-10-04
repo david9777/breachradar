@@ -24,6 +24,30 @@
     "date_added": "2026-10-03T12:41:30.846699+00:00"
   },
   {
+    "id": "rw:world-cup-2034-2026-10-03",
+    "company": "World Cup 2034",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-03",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "Wallstreet"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Other",
+    "state": "SA",
+    "filing_url": "https://www.ransomware.live/id/V29ybGQgQ3VwIDIwMzRAV2FsbHN0cmVldA==",
+    "index_url": "https://www.ransomware.live/group/Wallstreet",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-03",
+    "affected": null,
+    "date_added": "2026-10-04T13:22:29.738637+00:00"
+  },
+  {
     "id": "rw:wooshin-safety-systems-co-ltd-2026-10-03",
     "company": "WOOSHIN SAFETY SYSTEMS CO LTD",
     "ticker": "",
@@ -144,6 +168,54 @@
     "date_added": "2026-10-03T12:41:30.846699+00:00"
   },
   {
+    "id": "rw:st-francis-healthcare-systems-of-hawaii-2026-10-03",
+    "company": "St. Francis Healthcare Systems of Hawaii",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-03",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "Wallstreet"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Healthcare",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/U3QuIEZyYW5jaXMgSGVhbHRoY2FyZSBTeXN0ZW1zIG9mIEhhd2FpaUBXYWxsc3RyZWV0",
+    "index_url": "https://www.ransomware.live/group/Wallstreet",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-03",
+    "affected": null,
+    "date_added": "2026-10-04T13:22:29.738637+00:00"
+  },
+  {
+    "id": "rw:skaff-group-2026-10-03",
+    "company": "Skaff Group",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-03",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "rhysida"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Other",
+    "state": "",
+    "filing_url": "https://www.ransomware.live/id/U2thZmYgR3JvdXBAcmh5c2lkYQ==",
+    "index_url": "https://www.ransomware.live/group/rhysida",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-03",
+    "affected": null,
+    "date_added": "2026-10-04T13:22:29.738637+00:00"
+  },
+  {
     "id": "rw:seven-seas-group-2026-10-03",
     "company": "seven seas group",
     "ticker": "",
@@ -190,6 +262,30 @@
     "breach_date": "2026-10-02",
     "affected": null,
     "date_added": "2026-10-03T12:41:30.846699+00:00"
+  },
+  {
+    "id": "rw:precon-marine-inc-2026-10-03",
+    "company": "Precon Marine Inc",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-03",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "netrunner"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Transportation",
+    "state": "",
+    "filing_url": "https://www.ransomware.live/id/UHJlY29uIE1hcmluZSBJbmNAbmV0cnVubmVy",
+    "index_url": "https://www.ransomware.live/group/netrunner",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-03",
+    "affected": null,
+    "date_added": "2026-10-04T13:22:29.738637+00:00"
   },
   {
     "id": "rw:mandurah-state-emergency-service-2026-10-03",
@@ -262,6 +358,30 @@
     "breach_date": "2026-10-02",
     "affected": null,
     "date_added": "2026-10-03T12:41:30.846699+00:00"
+  },
+  {
+    "id": "rw:genesis-credit-management-2026-10-03",
+    "company": "Genesis Credit Management",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-03",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "qilin"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Financial Services",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/R2VuZXNpcyBDcmVkaXQgTWFuYWdlbWVudEBxaWxpbg==",
+    "index_url": "https://www.ransomware.live/group/qilin",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-03",
+    "affected": null,
+    "date_added": "2026-10-04T13:22:29.738637+00:00"
   },
   {
     "id": "rw:aware-2026-10-03",
