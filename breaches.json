@@ -1,5 +1,53 @@
 [
   {
+    "id": "rw:evinoks-2026-11-01",
+    "company": "EVINOKS",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-11-01",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "Barracuda"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Technology",
+    "state": "TR",
+    "filing_url": "https://www.ransomware.live/id/RVZJTk9LU0BCYXJyYWN1ZGE=",
+    "index_url": "https://www.ransomware.live/group/Barracuda",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-11-01",
+    "affected": null,
+    "date_added": "2026-11-01T14:25:01.097010+00:00"
+  },
+  {
+    "id": "rw:danser-2026-11-01",
+    "company": "Danser",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-11-01",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "qilin"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Other",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/RGFuc2VyQHFpbGlu",
+    "index_url": "https://www.ransomware.live/group/qilin",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-11-01",
+    "affected": null,
+    "date_added": "2026-11-01T14:25:01.097010+00:00"
+  },
+  {
     "id": "rw:uaa-mx-2026-10-31",
     "company": "uaa.mx",
     "ticker": "",
@@ -22,6 +70,54 @@
     "breach_date": "2026-10-31",
     "affected": null,
     "date_added": "2026-10-31T13:46:49.171263+00:00"
+  },
+  {
+    "id": "rw:system-soft-2026-10-31",
+    "company": "System Soft",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-31",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "Vexy Ransomware"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Technology",
+    "state": "BG",
+    "filing_url": "https://www.ransomware.live/id/U3lzdGVtIFNvZnRAVmV4eSBSYW5zb213YXJl",
+    "index_url": "https://www.ransomware.live/group/Vexy Ransomware",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-31",
+    "affected": null,
+    "date_added": "2026-11-01T14:25:01.097010+00:00"
+  },
+  {
+    "id": "rw:straze-garden-center-2026-10-31",
+    "company": "Straze Garden Center",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-31",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "payload"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Retail & E-Commerce",
+    "state": "",
+    "filing_url": "https://www.ransomware.live/id/U3RyYXplIEdhcmRlbiBDZW50ZXJAcGF5bG9hZA==",
+    "index_url": "https://www.ransomware.live/group/payload",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-31",
+    "affected": null,
+    "date_added": "2026-11-01T14:25:01.097010+00:00"
   },
   {
     "id": "rw:spencers-com-2026-10-31",
@@ -72,6 +168,30 @@
     "date_added": "2026-10-31T13:46:49.171263+00:00"
   },
   {
+    "id": "rw:saleg-sachsen-anhaltische-landesentwicklungsgesellschaft-mbh-2026-10-31",
+    "company": "SALEG (Sachsen-Anhaltische Landesentwicklungsgesellschaft mbH)",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-31",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "payload"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Government & Defense",
+    "state": "DE",
+    "filing_url": "https://www.ransomware.live/id/U0FMRUcgKFNhY2hzZW4tQW5oYWx0aXNjaGUgTGFuZGVzZW50d2lja2x1bmdzZ2VzZWxsc2NoYWZ0IG1iSClAcGF5bG9hZA==",
+    "index_url": "https://www.ransomware.live/group/payload",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-31",
+    "affected": null,
+    "date_added": "2026-11-01T14:25:01.097010+00:00"
+  },
+  {
     "id": "rw:rood-trucking-2026-10-31",
     "company": "Rood Trucking",
     "ticker": "",
@@ -96,6 +216,30 @@
     "date_added": "2026-10-31T13:46:49.171263+00:00"
   },
   {
+    "id": "rw:ro-up-2026-10-31",
+    "company": "ro***up",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-31",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "AuditTeam"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "",
+    "state": "",
+    "filing_url": "https://www.ransomware.live/id/cm8qKip1cEBBdWRpdFRlYW0=",
+    "index_url": "https://www.ransomware.live/group/AuditTeam",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-31",
+    "affected": null,
+    "date_added": "2026-11-01T14:25:01.097010+00:00"
+  },
+  {
     "id": "rw:quevedo-ponce-com-2026-10-31",
     "company": "quevedo-ponce.com",
     "ticker": "",
@@ -118,6 +262,78 @@
     "breach_date": "2026-10-31",
     "affected": null,
     "date_added": "2026-10-31T13:46:49.171263+00:00"
+  },
+  {
+    "id": "rw:punta-shopping-2026-10-31",
+    "company": "Punta Shopping",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-31",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "emperador"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Retail & E-Commerce",
+    "state": "UY",
+    "filing_url": "https://www.ransomware.live/id/UHVudGEgU2hvcHBpbmdAZW1wZXJhZG9y",
+    "index_url": "https://www.ransomware.live/group/emperador",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-31",
+    "affected": null,
+    "date_added": "2026-11-01T14:25:01.097010+00:00"
+  },
+  {
+    "id": "rw:phoenix-charter-academy-2026-10-31",
+    "company": "Phoenix Charter Academy",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-31",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "rhysida"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Education",
+    "state": "US",
+    "filing_url": "https://www.ransomware.live/id/UGhvZW5peCBDaGFydGVyIEFjYWRlbXlAcmh5c2lkYQ==",
+    "index_url": "https://www.ransomware.live/group/rhysida",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-31",
+    "affected": null,
+    "date_added": "2026-11-01T14:25:01.097010+00:00"
+  },
+  {
+    "id": "rw:pe-ct-2026-10-31",
+    "company": "Pe***CT",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-31",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "AuditTeam"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "",
+    "state": "NL",
+    "filing_url": "https://www.ransomware.live/id/UGUqKipDVEBBdWRpdFRlYW0=",
+    "index_url": "https://www.ransomware.live/group/AuditTeam",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-31",
+    "affected": null,
+    "date_added": "2026-11-01T14:25:01.097010+00:00"
   },
   {
     "id": "rw:novadata-2026-10-31",
@@ -192,6 +408,30 @@
     "date_added": "2026-10-31T13:46:49.171263+00:00"
   },
   {
+    "id": "rw:kraft-lernen-2026-10-31",
+    "company": "Kraft Lernen",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-31",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "payload"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Education",
+    "state": "DE",
+    "filing_url": "https://www.ransomware.live/id/S3JhZnQgTGVybmVuQHBheWxvYWQ=",
+    "index_url": "https://www.ransomware.live/group/payload",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-31",
+    "affected": null,
+    "date_added": "2026-11-01T14:25:01.097010+00:00"
+  },
+  {
     "id": "rw:jumonji-u-ac-jp-2026-10-31",
     "company": "jumonji-u.ac.jp",
     "ticker": "",
@@ -216,6 +456,78 @@
     "date_added": "2026-10-31T13:46:49.171263+00:00"
   },
   {
+    "id": "rw:jl-om-2026-10-31",
+    "company": "jl***om",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-31",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "AuditTeam"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "",
+    "state": "SG",
+    "filing_url": "https://www.ransomware.live/id/amwqKipvbUBBdWRpdFRlYW0=",
+    "index_url": "https://www.ransomware.live/group/AuditTeam",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-31",
+    "affected": null,
+    "date_added": "2026-11-01T14:25:01.097010+00:00"
+  },
+  {
+    "id": "rw:jhamf-group-2026-10-31",
+    "company": "JHAMF Group",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-31",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "Vexy Ransomware"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "",
+    "state": "BD",
+    "filing_url": "https://www.ransomware.live/id/SkhBTUYgR3JvdXBAVmV4eSBSYW5zb213YXJl",
+    "index_url": "https://www.ransomware.live/group/Vexy Ransomware",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-31",
+    "affected": null,
+    "date_added": "2026-11-01T14:25:01.097010+00:00"
+  },
+  {
+    "id": "rw:ivan-smith-furniture-2026-10-31",
+    "company": "Ivan Smith Furniture",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-31",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "sarcoma"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Retail & E-Commerce",
+    "state": "PH",
+    "filing_url": "https://www.ransomware.live/id/SXZhbiBTbWl0aCBGdXJuaXR1cmVAc2FyY29tYQ==",
+    "index_url": "https://www.ransomware.live/group/sarcoma",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-31",
+    "affected": null,
+    "date_added": "2026-11-01T14:25:01.097010+00:00"
+  },
+  {
     "id": "rw:ined-2026-10-31",
     "company": "Ined",
     "ticker": "",
@@ -238,6 +550,54 @@
     "breach_date": "2026-10-30",
     "affected": null,
     "date_added": "2026-10-31T13:46:49.171263+00:00"
+  },
+  {
+    "id": "rw:holcim-2026-10-31",
+    "company": "Holcim",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-31",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "emperador"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Manufacturing",
+    "state": "CH",
+    "filing_url": "https://www.ransomware.live/id/SG9sY2ltQGVtcGVyYWRvcg==",
+    "index_url": "https://www.ransomware.live/group/emperador",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-31",
+    "affected": null,
+    "date_added": "2026-11-01T14:25:01.097010+00:00"
+  },
+  {
+    "id": "rw:hn-rg-2026-10-31",
+    "company": "hn***rg",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-31",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "AuditTeam"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "",
+    "state": "",
+    "filing_url": "https://www.ransomware.live/id/aG4qKipyZ0BBdWRpdFRlYW0=",
+    "index_url": "https://www.ransomware.live/group/AuditTeam",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-31",
+    "affected": null,
+    "date_added": "2026-11-01T14:25:01.097010+00:00"
   },
   {
     "id": "rw:grifosespinoza-com-2026-10-31",
@@ -312,6 +672,30 @@
     "date_added": "2026-10-31T13:46:49.171263+00:00"
   },
   {
+    "id": "rw:gamdom-v2-2026-10-31",
+    "company": "Gamdom V2",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-31",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "Whitearmor"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "Other",
+    "state": "",
+    "filing_url": "https://www.ransomware.live/id/R2FtZG9tIFYyQFdoaXRlYXJtb3I=",
+    "index_url": "https://www.ransomware.live/group/Whitearmor",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-31",
+    "affected": null,
+    "date_added": "2026-11-01T14:25:01.097010+00:00"
+  },
+  {
     "id": "rw:first-dental-2026-10-31",
     "company": "First Dental",
     "ticker": "",
@@ -334,6 +718,30 @@
     "breach_date": "2026-10-28",
     "affected": null,
     "date_added": "2026-10-31T13:46:49.171263+00:00"
+  },
+  {
+    "id": "rw:f-a-a-2026-10-31",
+    "company": "**F*A *.A",
+    "ticker": "",
+    "cik": "",
+    "filed": "2026-10-31",
+    "form": "Leak-site post",
+    "items": [],
+    "is_item_105": false,
+    "matched": [
+      "nightspire"
+    ],
+    "category": "Ransomware",
+    "sic": "",
+    "industry": "",
+    "state": "",
+    "filing_url": "https://www.ransomware.live/id/KipGKkEgKi5BQG5pZ2h0c3BpcmU=",
+    "index_url": "https://www.ransomware.live/group/nightspire",
+    "source": "ransomware.live",
+    "source_type": "ransomware",
+    "breach_date": "2026-10-31",
+    "affected": null,
+    "date_added": "2026-11-01T14:25:01.097010+00:00"
   },
   {
     "id": "rw:everon-com-ar-2026-10-31",
@@ -106586,12 +106994,12 @@
     "sic": "",
     "industry": "",
     "state": "WA",
-    "filing_url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA41108.pdf",
-    "index_url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA41108.pdf",
+    "filing_url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA41120.pdf",
+    "index_url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA41120.pdf",
     "source": "Washington AG",
     "source_type": "state_ag",
     "breach_date": "05/01/2026",
-    "affected": 5671,
+    "affected": 1215,
     "date_added": "2026-06-18T13:46:30.730326+00:00"
   },
   {
